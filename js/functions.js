@@ -14,4 +14,4 @@ const isPalindrome = function (line) {
   return newString === newLine;
 };
 
-isPalindrome('Лёша на полке клопа нашёл ');
+isPalindrome('Довод ');
