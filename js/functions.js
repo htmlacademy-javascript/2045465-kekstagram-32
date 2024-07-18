@@ -14,4 +14,5 @@ const isPalindrome = function (line) {
   return newString === newLine;
 };
 
-isPalindrome('Довод ');
+isPalindrome('Довод');
+
