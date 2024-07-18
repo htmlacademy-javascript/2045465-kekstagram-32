@@ -15,3 +15,5 @@ const isPalindrome = function (line) {
 };
 
 isPalindrome('Лёша на полке клопа нашёл ');
+
+
