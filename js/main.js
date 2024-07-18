@@ -12,7 +12,6 @@ function getRandomInteger (min, max) {
   return Math.floor(Math.random() * (max - min + 1)) + min; // ссылка на источник https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Math/floor
 }
 
-
 const SIMILAR_PHOTO_COUNT = 25;
 const similarPhotos = [];
 
